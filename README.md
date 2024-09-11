@@ -15,7 +15,7 @@ There are currently two versions of the Community Edition available - the `maste
 ### For all versions < 4.x:
 
 ```
-npm install jsplumb
+npm install jackmartin-jsplumb
 ```
 
 We package the following files:
